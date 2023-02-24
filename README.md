@@ -1,8 +1,8 @@
 # SchlierenImaging
 
-**Laboratory for Medical Imaging and Experimental Radiology at FHSWF**
+**Laboratory for Medical Imaging and Experimental Radiology at FH SWF**
 
-Welcome to the Laboratory for Medical Imaging and Experimental Radiology at FHSWF! Our organization is dedicated to advancing the field of medical imaging through innovative research and experimentation.
+Welcome to the _Laboratory for Medical Imaging and Experimental Radiology_ at _South Westphalia University of Applied Sciences_! Our organization is dedicated to advancing the field of medical imaging through innovative research and experimentation.
 
 **Overview**
 
