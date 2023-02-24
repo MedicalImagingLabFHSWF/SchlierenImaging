@@ -1,6 +1,6 @@
 # SchlierenImaging
 
-**Laboratory for Medical Imaging and Experimental Radiology at FHSF**
+**Laboratory for Medical Imaging and Experimental Radiology at FHSWF**
 
 Welcome to the Laboratory for Medical Imaging and Experimental Radiology at FHSWF! Our organization is dedicated to advancing the field of medical imaging through innovative research and experimentation.
 
