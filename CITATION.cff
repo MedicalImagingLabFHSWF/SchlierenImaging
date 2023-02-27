@@ -1,0 +1,31 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Schlieren Imaging
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Lennart
+    family-names: Bedarf
+    affiliation: ' South Westphalian University of Applied Sciences'
+  - affiliation: ' South Westphalian University of Applied Sciences'
+    given-names: 'Andreas '
+    family-names: Holl
+  - given-names: Helena
+    family-names: Nawrath
+    email: nawrath.helena@fh-swf.de
+    affiliation: ' South Westphalian University of Applied Sciences'
+repository-code: 'https://github.com/MedicalImagingLabFHSWF/SchlierenImaging'
+abstract: >-
+  The repository contains code and supplementary material
+  for an experimental Schlieren imaging setup that
+  visualizes High-Intensity Focused Ultrasound (HIFU) in
+  real-time enabling the user to display, observe and
+  analyze the sound field. In addition, the repository
+  includes code for image analysis.
+license: MIT
+commit: 582e58f
+version: '0.1'
