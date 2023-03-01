@@ -7,7 +7,7 @@ Welcome to the _Laboratory for Medical Imaging and Experimental Radiology_ at _S
 **Overview**
 
 The repository contains code and supplementary material for an experimental Schlieren imaging setup that visualizes High-Intensity Focused Ultrasound (HIFU) in real-time enabling the user to display, observe and analyze the sound field.
-In addition, the repository includes code for image analysis, specifically for analyzing the shift of the focal point of the HIFU beam if an acoustic lens is used in the setup. The code is written in Python and MATLAB and is designed to be easily customizable and adaptable to different experimental setups.
+In addition, the repository includes code for image analysis, specifically for analyzing the shift of the focal point of the HIFU beam if an acoustic lens is used in the setup. The code is written in MATLAB and is designed to be easily customizable and adaptable to different experimental setups.
 
 **Supplementary Material**
 
